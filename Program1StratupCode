@@ -6,9 +6,7 @@ class Person {
     // Parameterized constructor
 
     // Method to get full name
-}
 
-public class Practical1 {
     public static void main(String[] args) {
         // Create two Person objects with different data
 
