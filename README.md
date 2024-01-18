@@ -1,3 +1,4 @@
+Practical 1: Creating and Using a Simple Class
 Task 1: Creating the Person Class
 ● Create a Java class named Person.
 ● Add instance variables for firstName (String), lastName (String), and age (int).
